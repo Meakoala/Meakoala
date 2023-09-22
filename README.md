@@ -1,6 +1,6 @@
-<p>Hi, I’m @Meakoala average teen programer wannabe, no offence.</p>
+<p>Hi, I’m Meakoala average teen programer wannabe, no offence.</p>
 <p>I’m dreaming to be Programmer.</p>  
-<p>I’m currently learning powershell, html, css and javascript </p>
+<p>I’m currently learning bash, html, css and javascript </p>
 
 
 
