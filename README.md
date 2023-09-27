@@ -1,6 +1,5 @@
-<p>Hi, I’m Meakoala average teen programer wannabe, no offence.</p>
-<p>I’m dreaming to be Programmer.</p>  
-<p>I’m currently learning bash, html, css and javascript </p>
+Hi, I’m Meakoala average teen Computer nerd.
+I’m dreaming to be Programmer.
 
 
 
