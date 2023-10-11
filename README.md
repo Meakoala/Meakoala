@@ -1,5 +1,7 @@
 Hi, I’m Meakoala average teen Computer nerd.
-I’m dreaming to be Programmer.
+I’m dreaming to be Programmer. <br \>
+
+ps: profile pic is my fav singer
 
 
 
