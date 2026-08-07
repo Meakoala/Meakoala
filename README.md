@@ -1,11 +1,12 @@
-Hi, I’m Meakoala average teen Computer nerd.
-I’m dreaming to be Programmer.
+# Hi, I'm Chatchapol. 
 
-ps: profile pic is my fav singer
+you can call me by my username Meakoala(หมีโคอะล่า) or my nickname kia(เกียร์)
 
+## My **DREAM** is to be a Developer/Software engineer. This is my path way to that Goal.
 
+### Currently Learning:
 
-<!---
-Meakoala/Meakoala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- CD/CI
+- Rust
+- Automation
+- AI workflow
